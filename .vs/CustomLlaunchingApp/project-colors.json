@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6787c6ef-b9d8-4049-bc99-06f2a2458241": {
+      "ProjectGuid": "6787c6ef-b9d8-4049-bc99-06f2a2458241",
+      "DisplayName": "CustomLlaunchingApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
